@@ -1,0 +1,22 @@
+//
+//  SoraCodeTestApp.pch
+//  SoraCodeTestApp
+//
+//  Created by Muhammad Abdullah on 16/08/2015.
+//  Copyright (c) 2015 Self. All rights reserved.
+//
+
+#ifndef SoraCodeTestApp_SoraCodeTestApp_pch
+#define SoraCodeTestApp_SoraCodeTestApp_pch
+
+
+#import "WebServicesManager.h"
+#import <BlocksKit/BlocksKit.h>
+#import "Models.h"
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
